@@ -1,0 +1,25 @@
+{
+  "name": "aprendendonodejs",
+  "version": "1.0.0",
+  "description": "Fazendo alguns exercícios para aplicar conhecimentos de NodeJS obtidos em curso",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elianeMeijomil/aprendendo-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "exercicios",
+    "curso-nodejs",
+    "http"
+  ],
+  "author": "Eliane Meijomil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elianeMeijomil/aprendendo-nodejs/issues"
+  },
+  "homepage": "https://github.com/elianeMeijomil/aprendendo-nodejs#readme"
+}
